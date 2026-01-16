@@ -58,6 +58,6 @@ INSERT INTO Cart (AccountNumber, ProductID, Quantity) VALUES
   (1, 1, 2),
   (2, 2, 1);
 
-INSERT INTO totalAmount ('laptop', 'smartphone') values (199.99, 879.00);
+INSERT INTO totalAmount ('Laptop', 'Smartphone') values (199.99, 879.00);
 
 COMMIT;
